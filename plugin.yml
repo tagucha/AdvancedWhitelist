@@ -1,0 +1,8 @@
+name: AdvancedWhitelist
+version: 1.0.0
+main: tgcdev.aw.PluginMain
+author: tagucha
+commands:
+  whitelist:
+    usage: /whitelist
+    description: No description.
